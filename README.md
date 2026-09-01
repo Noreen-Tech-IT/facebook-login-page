@@ -1,52 +1,54 @@
 # Facebook Login Page
 
-A simple **Facebook-inspired login page** created using **HTML5**. This project is part of my learning journey in web development.
+A simple Facebook-inspired login page created using **HTML and CSS**. This project is an extended version of my basic HTML login page, where I added CSS styling to improve its appearance and layout.
 
-## 🌐 Live Demo
+## 🌐 Technologies Used
 
-[View Live Demo](#)
+* HTML5
+* CSS3
 
 ## ✨ Features
 
-* Facebook-inspired login page layout
-* Email or phone input field
-* Password input field
-* Login button
-* Forgot password option
-* Create new account option
-* Simple HTML form structure
+* Facebook-inspired login form
+* Styled input fields
+* Login button with colors and hover effect
+* Create New Account button
+* Margin and padding
+* Borders and border-radius
+* Box-shadow
+* Text and font styling
+* Centered layout
 
-## 🛠️ Technology Used
+## 📚 What I Learned
 
-* **HTML5**
+While working on this project, I practiced:
 
-## 📂 Project Structure
+* Creating a webpage structure with HTML
+* Connecting an external CSS file
+* Using colors and fonts
+* Understanding margin and padding
+* Working with the CSS box model
+* Using borders and border-radius
+* Applying box-shadow
+* Creating hover effects
+* Aligning and positioning elements with CSS
 
-```text
-facebook-login-page/
-│
-├── index.html
-└── README.md
-```
+## 📸 Project Preview
 
-## 🎯 Purpose
+Add a screenshot of your project here.
 
-This project was created to practice basic HTML concepts, including:
+## 🚀 Future Improvements
 
-* HTML document structure
-* Forms
-* Input fields
-* Buttons
-* Links
-* Text and headings
+I plan to improve this project by adding:
+
+* Responsive design
+* JavaScript form validation
+* Better mobile layout
+* More interactive effects
 
 ## 👩‍💻 Author
 
 **Noreen Patras**
 
 BS-IT Student | Aspiring Web Developer
-
-## ⚠️ Disclaimer
-
-This is an **educational practice project** inspired by the Facebook login interface. It is not affiliated with or connected to Facebook or Meta.
 
